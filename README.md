@@ -6,12 +6,12 @@ This repository contains the code for implementing an adaptive group testing str
 
 To run the code, you will need:
 
-..* Python 3.6 or higher
-..* NetworkX library
-..* Mesa library
-..* Numpy library
-..* Pandas library
-..* Seaborn libaray
+* Python 3.6 or higher
+* NetworkX library
+* Mesa library
+* Numpy library
+* Pandas library
+* Seaborn libaray
 
 ## Uasage
 

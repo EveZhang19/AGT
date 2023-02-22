@@ -13,7 +13,7 @@ To run the code, you will need:
 * Pandas library
 * Seaborn libaray
 
-## Uasage
+## Usage
 
 The code is provided in the form of a Jupyter notebook that can be run cell by cell directly. The notebook contains detailed explanations and comments for each step of the implementation.
 
@@ -21,7 +21,7 @@ The code is provided in the form of a Jupyter notebook that can be run cell by c
 
 We provide several examples of simulations using the adaptive group testing strategy for different social contact networks and testing capacity scenarios. The simulation results are shown in the notebook and can be reproduced by running the corresponding cells.
 
-## Licence
+## License
 
 This code is released under the MIT License. Please feel free to use and modify it for your own purposes.
 
